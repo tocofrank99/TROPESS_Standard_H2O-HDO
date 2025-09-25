@@ -1,5 +1,5 @@
 python==3.12
-jupyterlab==4.4
-netcdf4==1.7
-cartopy==0.25
-matplotlib==3.10
+jupyterlab
+netcdf4
+cartopy
+matplotlib
