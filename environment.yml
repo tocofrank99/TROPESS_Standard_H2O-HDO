@@ -1,0 +1,11 @@
+name: x_test
+channels:
+- conda-forge
+dependencies:
+- python=3.12
+- jupyterlab
+- pip:
+- netCDF4
+- numpy
+- matplotlib
+- cartopy
